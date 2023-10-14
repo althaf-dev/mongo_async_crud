@@ -1,0 +1,48 @@
+2023/08/04	11:08:55	5f49b14a-b257-4a78-b3fa-5e4eb36a5b98	Error:Not allowed by CORS
+2023/31/04	11:31:09	5b1e13a0-737a-4b21-8f72-912c751b9f8c	ReferenceError:test is not defined
+2023/31/04	11:31:10	2d99726b-b523-4dbc-86ab-3e44f2b45fe8	ReferenceError:test is not defined
+2023/31/04	11:31:11	04fde31b-8595-4655-aace-edde0dbae970	ReferenceError:test is not defined
+2023/31/04	11:31:11	8566c6d1-4ef0-4a47-b9b2-5963bca43ae3	ReferenceError:test is not defined
+2023/31/04	11:31:27	f9714217-298b-4159-88b2-f61809a13d83	ReferenceError:test is not defined
+2023/32/04	11:32:12	d35f77e7-c3d5-477d-aba0-0cc3b20496c5	ReferenceError:test is not defined
+2023/32/04	11:32:13	c9701536-8ec8-4421-a614-756f707f9348	ReferenceError:test is not defined
+2023/32/04	11:32:13	8721910a-08dd-4377-b559-9ec970dd3cd8	ReferenceError:test is not defined
+2023/32/04	11:32:13	b5ffffbc-8f78-40b3-8de0-b3733477b436	ReferenceError:test is not defined
+2023/32/04	11:32:14	1caee434-a5da-4180-80bd-3b48a7bb22a7	ReferenceError:test is not defined
+2023/32/04	11:32:28	c8414b0a-5100-4f21-ac52-4bf4d44014d0	ReferenceError:test is not defined
+2023/32/04	11:32:28	38cf25ca-60e5-48ad-9dbc-7875a6c50666	ReferenceError:test is not defined
+2023/32/04	11:32:28	2eb5da5a-a100-4d69-9e1b-93d8b29e334e	ReferenceError:test is not defined
+2023/32/04	11:32:28	4a9e6b21-90cb-4faf-95f6-09164cebfd3d	ReferenceError:test is not defined
+2023/32/04	11:32:29	763e4a65-6aec-426e-88fc-d727255f8008	ReferenceError:test is not defined
+2023/32/04	11:32:29	a334e531-8bcb-429f-8690-165fa12011fc	ReferenceError:test is not defined
+2023/32/04	11:32:29	f2a76d94-bbbf-4e1e-87b1-a57fda47ca0c	ReferenceError:test is not defined
+2023/32/04	11:32:29	a1448ae7-379a-4501-897d-cf793ef8a407	ReferenceError:test is not defined
+2023/32/04	11:32:29	accbcbc9-ba76-4fe7-b62c-f2b557f3745c	ReferenceError:test is not defined
+2023/32/04	11:32:29	4c4781a5-7b3d-4e1a-a4ed-2b86edae01cd	ReferenceError:test is not defined
+2023/32/04	11:32:30	87ee3fb7-3999-45a4-8abb-7411e2014a72	ReferenceError:test is not defined
+2023/32/04	11:32:30	13b7b98f-525c-4ffe-ae35-5dc30f9b6484	ReferenceError:test is not defined
+2023/32/04	11:32:30	661bff39-c319-44aa-a716-9b5f7ca33a8a	ReferenceError:test is not defined
+2023/32/04	11:32:56	f87b00c7-c27a-488c-9a17-f3b49276a6b1	ReferenceError:test is not defined
+2023/32/04	11:32:57	f7f530e8-6158-428b-9852-376ee6dd76df	ReferenceError:test is not defined
+2023/32/04	11:32:57	dd8a0324-1306-4aeb-ba54-67cf49bddb50	ReferenceError:test is not defined
+2023/32/04	11:32:57	a4311523-8118-4fc0-889e-0bccbb5fc858	ReferenceError:test is not defined
+2023/33/04	11:33:27	e5010916-8dbc-40e7-baaa-2f5d087f6a1e	ReferenceError:test is not defined
+2023/33/04	11:33:29	0dbcceae-7b90-4208-ae95-e792b99a9e87	ReferenceError:test is not defined
+2023/33/04	11:33:30	b14652b1-554b-4fb9-8f3f-8b672823aabd	ReferenceError:test is not defined
+2023/33/04	11:33:30	0bbc14dd-2758-4bef-913d-d4d221f4aa5e	ReferenceError:test is not defined
+2023/33/04	11:33:30	30eeed67-503d-4afb-a90d-ac3b2dee2f2e	ReferenceError:test is not defined
+2023/33/04	11:33:30	6419fb8c-2836-4448-a520-79cb6980bf45	ReferenceError:test is not defined
+2023/34/04	11:34:13	9b71cd8e-775e-4d3f-be11-34efa98ad691	ReferenceError:test is not defined
+2023/34/04	11:34:16	bdc79537-671b-47ed-9f97-a298228c6580	ReferenceError:test is not defined
+2023/41/04	11:41:33	4cc994dc-1d15-410f-aa44-e73e1e1e0a01	Error:ENOENT: no such file or directory, stat 'C:\myallProjects\learning\nodetuitorial\Tuitorilal-DaveGrey\routes\views\index.html'
+2023/38/10	04:38:52	db46602f-d4fb-43a1-bf94-1f42f461e34b	SyntaxError:Unexpected string in JSON at position 8
+2023/39/10	04:39:04	26286cab-5697-4c11-b1ed-0eeeb3d303dc	SyntaxError:Unexpected string in JSON at position 8
+2023/40/10	04:40:17	f428c863-111f-4c91-81e7-8c4ecb1aff4e	SyntaxError:Unexpected string in JSON at position 8
+2023/18/10	06:18:15	2e6da29e-301d-4e67-b32f-20db6710381c	TypeError:data.employees is not a function
+2023/34/11	01:34:25	2901094f-815c-4bd7-a497-d3ff25ec4b49	Error:secretOrPrivateKey must have a value
+2023/36/11	01:36:06	1b5daf45-7777-4ba9-b322-208bd5c1950b	Error:secretOrPrivateKey must have a value
+2023/26/11	02:26:35	698e6071-0d91-4bea-b6e6-0eb81d31b34f	Error:secretOrPrivateKey must have a value
+2023/27/11	02:27:48	158d13b1-e880-42c2-8d75-f73baac7e422	Error:secretOrPrivateKey must have a value
+2023/31/11	02:31:32	ea5af898-fd56-4339-a1ad-093c993c6945	Error:secretOrPrivateKey must have a value
+2023/39/13	10:39:32	dfc7a885-e11b-498f-984d-72ee03ab337a	Error:Cannot set headers after they are sent to the client
+2023/00/14	03:00:51	6e8ffbff-bd6c-4543-8a61-2fc72d76a5c2	SyntaxError:Unexpected token , in JSON at position 98
